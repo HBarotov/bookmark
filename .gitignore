@@ -1,0 +1,8 @@
+.venv/
+cert.crt
+cert.key
+.env.dev
+*.pyc
+__pycache__/
+db.sqlite3
+media/
